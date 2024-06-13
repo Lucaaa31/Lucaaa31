@@ -25,7 +25,7 @@
     <tr>
       <td colspan="2">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luciobaiocchi&theme=dark" alt="Profile Details">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucaaa31&theme=dark" alt="Profile Details">
 
   </table>
 
